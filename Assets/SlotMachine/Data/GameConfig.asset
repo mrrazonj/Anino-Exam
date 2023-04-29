@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15e87b8a4da3c734c8822e815dc9b3d4, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: 
+  Reels:
+  - {fileID: 11400000, guid: 2ee7daf60bc1b41499a69957b567f098, type: 2}
+  - {fileID: 11400000, guid: 7248859fbfb627548a1ce1d18602f706, type: 2}
+  - {fileID: 11400000, guid: 276c67ebfbae9e14ba2d6a65f3dc085b, type: 2}
+  - {fileID: 11400000, guid: 8bb6fb5d2740ac447b8f6f90f19e7250, type: 2}
+  - {fileID: 11400000, guid: 8aa9c77ef3d7f6941a260281906a9a82, type: 2}
+  PayoutLines:
+  - {fileID: 11400000, guid: 5297fbbee51926940a5ca0915b8ec14b, type: 2}
+  - {fileID: 11400000, guid: 9c75f2d940bb855438c05dcb42ffe64d, type: 2}
+  - {fileID: 11400000, guid: 2722af0a938556149ba0328c01808580, type: 2}
+  - {fileID: 11400000, guid: 6e634f32b5feace4ba4bf877a2691624, type: 2}
+  - {fileID: 11400000, guid: b892a674dfe1d4b46b7d9735548d1214, type: 2}
+  - {fileID: 11400000, guid: 6f0e0fd2bb4a9134e92893083845a2a1, type: 2}
+  - {fileID: 11400000, guid: 1a1db42830bf3bd44b21983d017d10bd, type: 2}
+  - {fileID: 11400000, guid: 0ea61181e43765d4a90a3e695ab2a185, type: 2}
+  - {fileID: 11400000, guid: 4a8ba451c5ff40b4698e569c197bd953, type: 2}
+  - {fileID: 11400000, guid: c3d072d245a975e4faaea7c89c1e163a, type: 2}
+  - {fileID: 11400000, guid: 53695ffd6a697134d8d517fe77bf06a9, type: 2}
+  - {fileID: 11400000, guid: 298e13c114506964fbf5e5ad23e516f8, type: 2}
+  - {fileID: 11400000, guid: 4467fe5d70b48c2428cd84c291585475, type: 2}
+  - {fileID: 11400000, guid: 0388eaaf8fec03f4992ed3844367f1fc, type: 2}
+  - {fileID: 11400000, guid: afb012445dbade24387eb89d3c09cbb8, type: 2}
+  - {fileID: 11400000, guid: aeace5fc751c224499d71e1c208aebee, type: 2}
+  - {fileID: 11400000, guid: cab64d0494ea6484791fb4428bd6c3c0, type: 2}
+  - {fileID: 11400000, guid: 6a368b15c2815824ab1eb8196fcdc1dc, type: 2}
+  - {fileID: 11400000, guid: d3e636aa5e346594c9bb6debd3a41056, type: 2}
+  - {fileID: 11400000, guid: fae1f102421b58d448272d7361e92430, type: 2}
+  SpinTime: 5
+  SpinSpeed: 15
+  ROWS: 3

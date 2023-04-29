@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15bb00037430d4041aa2f94f5a6c6885, type: 3}
+  m_Name: Reel5
+  m_EditorClassIdentifier: 
+  SymbolConfigs:
+  - {fileID: 11400000, guid: fba95ebce7f3d88478e8089f5ff6818c, type: 2}
+  - {fileID: 11400000, guid: 359a25404129b84488455a34754d36c1, type: 2}
+  - {fileID: 11400000, guid: c8dac6ee4fe1f4f41a25d88ae5e6fe6b, type: 2}
+  - {fileID: 11400000, guid: c90755a3e3a1141489b77bf22145cc15, type: 2}
+  - {fileID: 11400000, guid: 3c2119e8eff8fe648af4334b64a1f3c1, type: 2}
